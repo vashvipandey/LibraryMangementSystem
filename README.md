@@ -81,24 +81,5 @@ Library-Management-System/
 
 └── README.md
 
-## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/library-management-system.git
-cd library-management-system
-
-cd client
-npm install
-
-cd ../server
-npm install
-
-cd server
-npm start
-
-cd ../client
-npm run dev
-
-Author: Abhishek Kumar
 
